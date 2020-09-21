@@ -32,7 +32,7 @@ chapter: true
 ![David O'Brien](/images/blogs/davidobrien.png?width=50pc)
 
 ---
-#### {{< open-in-blank "Dwayne Natwick - The Journey To The Cloud Continues" "https://captainhyperscaler.com/" >}}
+#### {{< open-in-blank "Dwayne Natwick - Captain Hyper-scaler" "https://captainhyperscaler.com/" >}}
 ![Dwayne Natwick](/images/blogs/dwayne.PNG?width=50pc)
 
 ---
