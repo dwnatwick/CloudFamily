@@ -32,3 +32,9 @@ The **WikiAzure** YouTube channel. Here you'll find the Azure products & solutio
 A YouTube Channel from **Michael Levan** focussed on DevOps content in Azure. Here you'll find content ranging from development, containerization, orchestration, infrastructure-as-code, and many more topics!
 
 ---
+
+**{{< open-in-blank "Captain Hyper-scaler" "https://www.youtube.com/channel/UCIWicD_sUxH6EMH4ndG5NxQ/" >}}**
+
+A YouTube Channel from **Dwayne Natwick aka Captain Hyper-scaler** focuses on Infrastructure services content in Azure and Microsoft 365. Here you'll find content ranging from networking, security, and many more topics!  This is also the place to find presentation from past user group meetings and Azure Back to School event content.
+
+---
